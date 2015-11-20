@@ -3,7 +3,7 @@
 
 #chaper 1
 
-00: https://gist.github.com/d8289f0467aed934f93e.git
+00: https://gist.github.com/nutszebra/d8289f0467aed934f93e
 
 01: https://gist.github.com/nutszebra/500dd378eed35e3d9e9c
 
