@@ -25,4 +25,6 @@
 
 #chapter 2
 
-10: https://gist.github.com/nutszebra/436c7c748a5cd493c22a
+10: https://gist.github.com/nutszebra/dd369ee2cd2a214bbbd3
+
+11: https://gist.github.com/nutszebra/8e5bc3213d8b6884d89b
