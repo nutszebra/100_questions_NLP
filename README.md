@@ -40,3 +40,5 @@
 16: https://gist.github.com/nutszebra/02fa3d1089e39a492ba8
 
 17: https://gist.github.com/nutszebra/749e88fa797268deffff
+
+18: https://gist.github.com/nutszebra/4e2c041f3920e565d58d
